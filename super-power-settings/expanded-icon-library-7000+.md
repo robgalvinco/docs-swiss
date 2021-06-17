@@ -1,6 +1,6 @@
 # Expanded Icon Library 7000+
 
-{% embed url="https://www.loom.com/share/c21a9483dfb847f0b6bc79a870a6e964?sharedAppSource=personal\_library" %}
+{% embed url="https://www.loom.com/share/8c1a8fd7a2704fda89f40796b056fa31" %}
 
 
 
