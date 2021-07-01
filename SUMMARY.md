@@ -10,6 +10,7 @@
 
 * [Magic Sign Up Fields](super-power-settings/magic-sign-up-fields.md)
 * [Hide The Checkout Password Field](super-power-settings/hide-the-checkout-password-field.md)
+* [Card Tweaks](super-power-settings/card-tweaks.md)
 * [Hide Header & Footer](super-power-settings/hide-header-and-footer.md)
 * [Hide Dashboard](super-power-settings/hide-dashboard.md)
 * [Redirect Always](super-power-settings/redirect-always.md)
