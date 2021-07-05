@@ -18,6 +18,7 @@
 * [Redirect by Sign in State](super-power-settings/redirect-by-sign-in-state.md)
 * [Redirect by enrollment](super-power-settings/redirect-by-enrollment.md)
 * [Redirect by Course Enrollment](super-power-settings/redirect-by-course-enrollment.md)
+* [Redirect \(Course Player\)](super-power-settings/redirect-course-player.md)
 * [Redirect Zero Enrollments](super-power-settings/redirect-zero-enrollments.md)
 * [Expanded Icon Library 7000+](super-power-settings/expanded-icon-library-7000+.md)
 * [Useful Code Snippets](super-power-settings/useful-code-snippets.md)
