@@ -47,7 +47,19 @@ To change a custom sign up field to be a checkbox, you have two choices
 * [ ] Inside of the Magic Sign Up Fields block settings, change the Type setting to **Checkbox \(Must Acknowledge - Required\)**
 * [ ] **Be sure the custom sign up field is also set to be required on the Site settings page.** 
 
+### Understand the difference between "Sign Up" page and the "Checkout Sign in" page
 
+The Magic Sign up fields can be used on both pages, but does require you to place the section on both pages separately.
 
+{% embed url="https://www.loom.com/share/6550941472b64659b167bba9fab74737" %}
 
+{% hint style="warning" %}
+The magic signup fields does not change the account profile page and add drop downs \(due to not being able to control this page from Site Builder. It is recommended that the custom sign up fields be hidden from the account profile page, by adding this snippet of code to your Site Footer Code section
+{% endhint %}
+
+#### Hiding the custom sign up fields on the account profile page:
+
+```css
+<style> .my-account__form-contents .form__group:nth-child(n+6){ display:none; } </style>
+```
 
