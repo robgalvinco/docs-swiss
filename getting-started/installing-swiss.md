@@ -20,7 +20,7 @@ Be sure to have your Thinkific Site Admin login details handy in order to instal
 
 ### STEP 2: Enter your Subdomain on the Activation Page
 
-Once you have your subdomain for the Thinkific site you wish to install Swiss on, head over to the [activation page on the member portal.](https://powerups.thinkific.com/pages/playeah-activation)
+Once you have your subdomain for the Thinkific site you wish to install Swiss on, head over to the [activation page on the member portal.](https://www.superpowerups.com/pages/swiss-activate)
 
 ![](../.gitbook/assets/screen-shot-2021-06-07-at-12.58.25-pm.png)
 
@@ -35,7 +35,7 @@ After entering your subdomain, you will see a screen that looks like below. Be s
 ![](../.gitbook/assets/install-swiss-powerup-on-my-modern-met-academy.png)
 
 {% hint style="warning" %}
-Swiss does not actually use any API's or access any of your Thinkific site data. Currently Thinkific's app screen that you see above is the same for all applications. The clause noted "Access and modify your Thinkific data" is applied to all Apps by Thinkific, however plaYEAH! does not use any such requests. 
+Swiss does not actually use any API's or access any of your Thinkific site data. Currently Thinkific's app screen that you see above is the same for all applications. The clause noted "Access and modify your Thinkific data" is applied to all Apps by Thinkific, however Swiss does not use any such requests. 
 {% endhint %}
 
 ### 
