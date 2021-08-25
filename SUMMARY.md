@@ -18,6 +18,7 @@
 * [Redirect by email](super-power-settings/redirect-by-email.md)
 * [Redirect by Sign in State](super-power-settings/redirect-by-sign-in-state.md)
 * [Redirect by enrollment](super-power-settings/redirect-by-enrollment.md)
+* [Redirect \(If enrolled in\)](super-power-settings/redirect-if-enrolled-in.md)
 * [Redirect by Course Enrollment](super-power-settings/redirect-by-course-enrollment.md)
 * [Redirect \(Course Player\)](super-power-settings/redirect-course-player.md)
 * [Redirect Zero Enrollments](super-power-settings/redirect-zero-enrollments.md)
