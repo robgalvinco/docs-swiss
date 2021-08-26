@@ -57,7 +57,22 @@ The Magic Sign up fields can be used on both pages, but does require you to plac
 The magic signup fields does not change the account profile page and add drop downs \(due to not being able to control this page from Site Builder. It is recommended that the custom sign up fields be hidden from the account profile page, by adding this snippet of code to your Site Footer Code section
 {% endhint %}
 
-#### Hiding the custom sign up fields on the account profile page:
+### Social Sign Up and Account Pages
+
+If you have the social sign in options turned on for your site  and your custom fields are required, the user will be presented with a "Social Sign Up Page" that will contain the custom fields. Likewise the My Account Profile Page is also not accessible from within Site builder and therefore we need to handle this a bit differently.
+
+* [ ] Once you have completed setting up the Magic Sign up fields on the Sign Up or Checkout Sign Up pages, you will see a popup inside of Site Builder prompting you to paste a code snippet into your Site Footer code
+* [ ] Click the button the popup and paste it into the Site Footer Code settings. This will not activate the Magic Sign Up fields on these pages
+
+![](../.gitbook/assets/site-builder-thinkific-85-.png)
+
+![](../.gitbook/assets/settings-rob-s-school.png)
+
+{% hint style="info" %}
+Every time you make a change to your Magic Sign Up fields, you have to repeat the process of pasting the special code to the Site Footer code settings. Be sure to delete what was previously pasted.
+{% endhint %}
+
+#### If you also want to hiding the custom sign up fields on the account profile page, add the following to your site footer code as well:
 
 ```css
 <style> .my-account__form-contents .form__group:nth-child(n+6){ display:none; } </style>
