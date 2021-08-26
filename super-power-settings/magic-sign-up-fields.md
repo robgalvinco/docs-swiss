@@ -10,7 +10,7 @@ _**Warning** - this super power is defenseless against the "Streamlined Checkout
 
 {% embed url="https://www.loom.com/share/3d80451767df4b6c81f80bb6d690e7d7" %}
 
-### How to use this super power:
+## How to use this super power:
 
 * [ ] Add your custom fields into your Site Settings
 * [ ] On the **Checkout Sign Up** page, add the **Magic Signup Fields** section
@@ -57,7 +57,7 @@ The Magic Sign up fields can be used on both pages, but does require you to plac
 The magic signup fields does not change the account profile page and add drop downs \(due to not being able to control this page from Site Builder. It is recommended that the custom sign up fields be hidden from the account profile page, by adding this snippet of code to your Site Footer Code section
 {% endhint %}
 
-### Social Sign Up and Account Pages
+## Social Sign Up and Account Pages
 
 If you have the social sign in options turned on for your site  and your custom fields are required, the user will be presented with a "Social Sign Up Page" that will contain the custom fields. Likewise the My Account Profile Page is also not accessible from within Site builder and therefore we need to handle this a bit differently.
 
