@@ -9,6 +9,7 @@
 ## 💥Super Power Settings
 
 * [Magic Sign Up Fields](super-power-settings/magic-sign-up-fields.md)
+* [All courses page Hide Stuff](super-power-settings/all-courses-page-hide-stuff.md)
 * [Banner \(course\) Smart CTA](super-power-settings/banner-course-smart-cta.md)
 * [Hide The Checkout Password Field](super-power-settings/hide-the-checkout-password-field.md)
 * [Card Tweaks](super-power-settings/card-tweaks.md)
