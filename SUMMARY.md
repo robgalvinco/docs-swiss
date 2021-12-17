@@ -24,10 +24,10 @@
 * [Redirect (If enrolled in)](super-power-settings/redirect-if-enrolled-in.md)
 * [Redirect by Course Enrollment](super-power-settings/redirect-by-course-enrollment.md)
 * [Redirect (Course Player)](super-power-settings/redirect-course-player.md)
+* [Redirect Timer](super-power-settings/redirect-timer.md)
 * [Redirect Zero Enrollments](super-power-settings/redirect-zero-enrollments.md)
 * [Expanded Icon Library 7000+](super-power-settings/expanded-icon-library-7000+.md)
 * [Useful Code Snippets](super-power-settings/useful-code-snippets.md)
-* [Redirect Timer](super-power-settings/redirect-timer.md)
 
 ## 💬 Help & Support
 
