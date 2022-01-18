@@ -26,6 +26,7 @@
 * [Redirect (Course Player)](super-power-settings/redirect-course-player.md)
 * [Redirect Timer](super-power-settings/redirect-timer.md)
 * [Redirect Zero Enrollments](super-power-settings/redirect-zero-enrollments.md)
+* [Sign In Heading](super-power-settings/sign-in-heading.md)
 * [Expanded Icon Library 7000+](super-power-settings/expanded-icon-library-7000+.md)
 * [Useful Code Snippets](super-power-settings/useful-code-snippets.md)
 
