@@ -2,7 +2,7 @@
 
 ### 1) Primary Support : Facebook Group
 
-Here are some types of questions or problems to post inside the [<mark style="color:orange;">**Super PowerUps Facebook group**</mark>](https://www.facebook.com/groups/superpowerups)<mark style="color:orange;">** : **</mark>
+Here are some types of questions or problems to post inside the [<mark style="color:orange;">**Super PowerUps Facebook group**</mark>](https://www.facebook.com/groups/superpowerups) <mark style="color:orange;">**:**</mark>&#x20;
 
 * _How do I ...._
 * _I can't seem to get this to work..._

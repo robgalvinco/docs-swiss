@@ -2,11 +2,11 @@
 
 ## Who is the creator if Swiss?
 
-Swiss is just one of [the PowerUp's](https://powerups.thinkific.com/) \(aka Thinkific apps\) that are created by [Rob Galvin](https://www.robgalvin.co/) - who has been a certified [Thinkific Expert](https://www.thinkific.com/experts/site-creation-experts/rob-galvin/) for over four+ years. Rob and his team have been customizing Thinkific Site Experiences since 2016 \(before there was "Site Builder", before there was "Page Builder" and before there was even an "Expert" program.\)
+Swiss is just one of [the PowerUp's](https://powerups.thinkific.com) (aka Thinkific apps) that are created by [Rob Galvin](https://www.robgalvin.co) - who has been a certified [Thinkific Expert](https://www.thinkific.com/experts/site-creation-experts/rob-galvin/) for over four+ years. Rob and his team have been customizing Thinkific Site Experiences since 2016 (before there was "Site Builder", before there was "Page Builder" and before there was even an "Expert" program.)
 
-Every day Rob and his team work on creating new ways to use Thinkific, creating hand crafted designs and user experiences that match the business and type of program being used on Thinkific _\(it's not just for "courses" - we have done events, ambassador training, membership programs, corporate training, continuing education - you name it we have seen it.\)_
+Every day Rob and his team work on creating new ways to use Thinkific, creating hand crafted designs and user experiences that match the business and type of program being used on Thinkific _(it's not just for "courses" - we have done events, ambassador training, membership programs, corporate training, continuing education - you name it we have seen it.)_
 
-**Up until now, only select business had the opportunity to work 1 on 1 with us**. But now, with Thinkific's "App Store" model - we are able to easily package up all of our **"ninja tricks"** 🧙♂ that we are creating for our clients \(who handsomely pay us thousands of dollars\) into what we call PowerUps.
+**Up until now, only select business had the opportunity to work 1 on 1 with us**. But now, with Thinkific's "App Store" model - we are able to easily package up all of our **"ninja tricks"** :man\_mage: that we are creating for our clients (who handsomely pay us thousands of dollars) into what we call PowerUps.
 
 ## What in the world is a "PowerUp"
 
@@ -14,9 +14,9 @@ A PowerUp is a collection of new Site Builder sections that will give you new de
 
 And the best part is, once you install a PowerUp:
 
-* You get to keep it forever 📆 \(as long as you do not uninstall it\)
-* When we update it ⚡ - you get the updates \(for free and without having to click any buttons\)
-* You can use you new super powers 🦸 on any page \(unless we tell you otherwise\)
+* You get to keep it forever :calendar: (as long as you do not uninstall it)
+* When we update it :zap: - you get the updates (for free and without having to click any buttons)
+* You can use you new super powers :superhero: on any page (unless we tell you otherwise)
 
 ## Do I need any technical skills?
 
@@ -24,7 +24,7 @@ Nope. These PowerUps are created especially for those who are not technical. All
 
 ## Do I need to pay a monthly fee?
 
-Nope. You can buy this power up and pay once =&gt; keep forever. Or if you want to swipe all of our PowerUps, you can get a PowerUp pass for a year for $399.
+Nope. You can buy this power up and pay once => keep forever. Or if you want to swipe all of our PowerUps, you can get a PowerUp pass for a year for $399.
 
 ## Do I need to learn another platform / app?
 
@@ -85,4 +85,3 @@ If you are a PowerUp Pass member, you can request tweaks to any PowerUp. We will
 ## Can I use this with a custom theme?
 
 You will be able to install this if you are using a custom theme. Most if not all sections should work, but are not guaranteed to if you are using a custom theme.
-

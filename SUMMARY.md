@@ -17,6 +17,7 @@
 * [Hide The Checkout Password Field](super-power-settings/hide-the-checkout-password-field.md)
 * [Hide Header & Footer](super-power-settings/hide-header-and-footer.md)
 * [Hide Dashboard](super-power-settings/hide-dashboard.md)
+* [Hide Reviews Button](super-power-settings/hide-reviews-button.md)
 * [Redirect Always](super-power-settings/redirect-always.md)
 * [Redirect by email](super-power-settings/redirect-by-email.md)
 * [Redirect by Sign in State](super-power-settings/redirect-by-sign-in-state.md)
