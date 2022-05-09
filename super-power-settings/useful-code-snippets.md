@@ -86,26 +86,3 @@ display:none;
 }
 </style>
 ```
-
-
-
-## Hide Header on Reviews Page
-
-Choose an option below and place this into the Site Footer Code Settings:
-
-_**yoursite.thinkific.com/manage/settings?section=site-footer-code#tab-code-analytics**_
-
-```
-<style>
-    /* will hide the entire header */
-    .new-course-review-page  .header, .edit-course-review-page  .header{
-        display:none;
-    }
-    
-    /* will hide just the  header  links*/
-    .new-course-review-page  .header ul, .edit-course-review-page  .header ul{
-        display:none;
-    }
-
-</style>
-```
